@@ -1,0 +1,20 @@
+ body {
+    background-color: #08dc1678;
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .screen {
+    display: none;
+    padding: 40px;
+  }
+
+  .active {
+    display: block;
+  }
+
+  button {
+    margin: 10px;
+    padding: 10px 40px;
+    font-size: 20px;
+  }
