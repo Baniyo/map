@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<script src="map.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="map.js" defer></script>
 <link rel="stylesheet" href="map.css">
 <meta charset="UTF-8">
 <title>現在地マップ</title>
@@ -14,28 +15,29 @@
 <button onclick="showScreen('3F')">3階</button>
 <button onclick="showScreen('4F')">4階</button>
 <button onclick="showScreen('5F')">5階</button>
+
 <div id="1F" class="screen active">
-  <h1>1階</h1>
-  <p>ここは1階です。</p>
+  <h1 class="title_floor">1階　　　<span id="room_now_1f"></span></h1>
+  <object id="map_1f" data="map_1f.svg" type="image/svg+xml"></object>
 </div>
 
 <div id="2F" class="screen">
-  <h1>2階</h1>
-  <p>ここは2階です。</p>
+  <h1 class="title_floor">2階　　　</h1>
+  <object id="map_2f" data="map_2f.svg" type="image/svg+xml"></object>
 </div>
 
 <div id="3F" class="screen">
-  <h1>3階</h1>
-  <p>ここは3階です。</p>
+  <h1 class="title_floor">3階　　　</h1>
+  <object id="map_3f" data="map_3f.svg" type="image/svg+xml"></object>
 </div>
 
 <div id="4F" class="screen">
-  <h1>4階</h1>
-  <p>ここは4階です。</p>
+  <h1 class="title_floor">4階</h1>
 </div>
 
 <div id="5F" class="screen">
-  <h1>5階</h1>
-  <p>ここは5階です。</p>
+  <h1 class="title_floor">5階</h1>
+</div>
+
 </body>
 </html>

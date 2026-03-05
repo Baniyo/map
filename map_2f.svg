@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="750"
+   viewBox="0 0 1000 750"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="map_2f.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.45121704"
+     inkscape:cx="365.67768"
+     inkscape:cy="406.6779"
+     inkscape:window-width="1366"
+     inkscape:window-height="848"
+     inkscape:window-x="552"
+     inkscape:window-y="273"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch33"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       id="swatch32"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop32" />
+    </linearGradient>
+    <linearGradient
+       id="swatch31"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       id="swatch30"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       id="swatch29"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       id="swatch28"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop28" />
+    </linearGradient>
+    <linearGradient
+       id="swatch27"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
+       id="swatch26"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       id="swatch25"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop25" />
+    </linearGradient>
+    <linearGradient
+       id="swatch24"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="swatch23"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       id="swatch22"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop22" />
+    </linearGradient>
+    <linearGradient
+       id="swatch21"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       id="swatch20"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="swatch19"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       id="swatch18"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop18" />
+    </linearGradient>
+  </defs>
+  <path
+     id="path29"
+     style="fill:#19eaff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;opacity:1"
+     d="M 483.11782,15.474212 V 57.094747 H 89.238581 V 112.58886 H 64.92504 V 505.67198 H 45.474211 V 704.52579 H 940.21228 v -41.62054 h 24.31351 V 575.03957 H 633.86176 V 505.67198 H 541.47027 V 191.20543 h 179.9202 V 57.094747 H 590.09739 V 15.474212 Z M 108.6894,191.20543 H 483.11782 V 505.67198 H 108.6894 Z"
+     inkscape:label="背景" />
+  <rect
+     style="fill:#cd87de;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1"
+     width="87.528717"
+     height="69.367607"
+     x="55.199623"
+     y="607.41113"
+     inkscape:label="理数科職員室/SSH事務局" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2"
+     width="87.528717"
+     height="69.367607"
+     x="142.72833"
+     y="607.41113"
+     inkscape:label="1年1組" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3"
+     width="87.528717"
+     height="69.367607"
+     x="230.2571"
+     y="607.41113"
+     inkscape:label="1年2組" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4"
+     width="87.528717"
+     height="69.367607"
+     x="317.7858"
+     y="607.41113"
+     inkscape:label="1年3組" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5"
+     width="87.528717"
+     height="69.367607"
+     x="405.31445"
+     y="607.41113"
+     inkscape:label="201教室" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6"
+     width="87.528717"
+     height="69.367607"
+     x="492.8432"
+     y="607.41113"
+     inkscape:label="1年4組" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7"
+     width="87.528717"
+     height="69.367607"
+     x="580.37195"
+     y="607.41113"
+     inkscape:label="1年5組" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect8"
+     width="87.528717"
+     height="69.367607"
+     x="667.90076"
+     y="607.41113"
+     inkscape:label="1年6組" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect9"
+     width="87.528717"
+     height="69.367607"
+     x="755.4295"
+     y="607.41113"
+     inkscape:label="1年7組" />
+  <rect
+     style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect10"
+     width="87.528717"
+     height="69.367607"
+     x="842.95813"
+     y="607.41113"
+     inkscape:label="1年8組" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect17"
+     width="21.39591"
+     height="29.596849"
+     x="55.199623"
+     y="514.92102"
+     inkscape:label="多目的トイレ" />
+  <path
+     id="rect11"
+     style="fill:#e5ff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="ホール1"
+     d="M 76.595703 514.92188 L 76.595703 544.51758 L 55.199219 544.51758 L 55.199219 584.28906 L 55.199219 607.41016 L 930.48633 607.41016 L 930.48633 584.28906 L 580.37109 584.28906 L 580.37109 514.92188 L 492.84375 514.92188 L 492.84375 584.28906 L 98.964844 584.28906 L 98.964844 514.92188 L 76.595703 514.92188 z " />
+  <rect
+     style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect13"
+     width="43.764359"
+     height="69.367607"
+     x="98.964012"
+     y="514.92102"
+     inkscape:label="階段室1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect14"
+     width="43.764359"
+     height="69.367607"
+     x="142.72833"
+     y="514.92102"
+     inkscape:label="2階西トイレ" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect15"
+     width="87.528717"
+     height="69.367607"
+     x="186.49272"
+     y="514.92102"
+     inkscape:label="女子生徒更衣室" />
+  <rect
+     style="fill:#cd87de;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect16"
+     width="87.528717"
+     height="69.367607"
+     x="274.02145"
+     y="514.92102"
+     inkscape:label="生徒会室" />
+  <path
+     id="rect128"
+     style="fill:#ff9955;stroke:#000000;stroke-width:0.948424"
+     d="m 361.55017,514.92096 v 69.36772 h 43.76435 v -27.74705 h 43.76437 v -41.62067 z"
+     inkscape:label="購買部" />
+  <rect
+     style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect129"
+     width="43.764359"
+     height="27.747046"
+     x="405.31445"
+     y="556.54163"
+     inkscape:label="EVシャフト" />
+  <rect
+     style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect130"
+     width="43.764359"
+     height="69.367607"
+     x="449.07883"
+     y="514.92102"
+     inkscape:label="階段室2" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect132"
+     width="43.764359"
+     height="69.367607"
+     x="580.37195"
+     y="514.92102"
+     inkscape:label="二階東トイレ" />
+  <rect
+     style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect133"
+     width="24.313532"
+     height="69.367607"
+     x="930.48706"
+     y="584.28864"
+     inkscape:label="二階屋外階段" />
+  <rect
+     style="fill:#e5ff80;fill-opacity:1;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none;stroke-opacity:1"
+     id="rect134"
+     width="875.28723"
+     height="16.648226"
+     x="55.199623"
+     y="676.77893"
+     inkscape:label="バルコニー" />
+  <rect
+     style="fill:#e5ff80;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect12"
+     width="24.313532"
+     height="332.96454"
+     x="74.650444"
+     y="181.95651"
+     inkscape:label="二階西渡廊下" />
+  <rect
+     style="fill:#e5ff80;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect18"
+     width="38.901653"
+     height="332.96454"
+     x="492.8432"
+     y="181.95651"
+     inkscape:label="二階東渡廊下" />
+  <rect
+     style="fill:#e5ff80;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect19"
+     width="637.01459"
+     height="23.122538"
+     x="74.650444"
+     y="158.83392"
+     inkscape:label="二階北渡廊下" />
+  <path
+     style="fill:#ff9955;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     d="M 711.66505,158.83387 V 66.343845 H 580.37196 v 21.272618 h -43.76435 v 71.217407 z"
+     id="path19"
+     inkscape:label="調理室" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect20"
+     width="87.528717"
+     height="41.620567"
+     x="492.8432"
+     y="24.7232"
+     inkscape:label="二階北トイレ" />
+  <path
+     style="fill:#e5ff80;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     d="M 536.60761,158.83387 V 87.616463 h 43.76435 V 66.343845 H 449.07889 v 21.272618 h 43.76436 v 71.217407 z"
+     id="path20"
+     inkscape:label="特別教室棟2階廊下" />
+  <rect
+     style="fill:#5599ff;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect21"
+     width="43.764"
+     height="71.217422"
+     x="449.07883"
+     y="87.616493"
+     inkscape:label="階段室" />
+  <rect
+     style="fill:#ff9955;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect22"
+     width="111.84225"
+     height="92.49015"
+     x="337.23657"
+     y="66.343788"
+     inkscape:label="生物教室1" />
+  <rect
+     style="fill:#ff9955;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect23"
+     width="43.764359"
+     height="92.49015"
+     x="293.4722"
+     y="66.343788"
+     inkscape:label="生物準備室1" />
+  <path
+     id="rect24"
+     style="fill:#ff9955;stroke:#000000;stroke-width:0.948424"
+     inkscape:label="生物準備室2"
+     d="m 205.94358,66.343845 v 18.49796 h 24.3135 V 158.83387 H 293.4723 V 66.343845 Z" />
+  <rect
+     style="fill:#ff9955;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect25"
+     width="106.97955"
+     height="92.49015"
+     x="98.964012"
+     y="66.343788"
+     inkscape:label="生物教室2" />
+  <rect
+     style="fill:#5599ff;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect26"
+     width="24.313532"
+     height="38.845863"
+     x="74.650444"
+     y="119.98805"
+     inkscape:label="屋外階段" />
+  <rect
+     style="fill:#ff9955;stroke:#000000;stroke-width:0.948424;stroke-dasharray:none"
+     id="rect27"
+     width="24.313532"
+     height="73.992119"
+     x="205.9436"
+     y="84.841843"
+     inkscape:label="飼育室" />
+</svg>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="750"
+   viewBox="0 0 1000 750"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="map_3f.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.64"
+     inkscape:cx="487.5"
+     inkscape:cy="755.46875"
+     inkscape:window-width="1356"
+     inkscape:window-height="992"
+     inkscape:window-x="14"
+     inkscape:window-y="161"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="10"
+       originy="10"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <path
+     id="path34"
+     style="opacity:1;fill:#19eaff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+     d="M 480.78947,15 V 52.297297 H 88.578947 V 108.24324 H 64.368421 V 504.52703 H 45 V 705 h 881.26316 9.68421 V 663.04054 H 965 V 574.45946 H 630.89474 v -69.93243 h -92 V 404.28056 187.5 H 718.05263 V 52.297297 H 587.31579 V 15 Z m -372.8421,172.5 h 372.8421 V 504.52703 H 306.47368 v 69.93243 H 195.10526 v -69.93243 h -87.15789 z m 53.26316,293.71622 z" />
+  <rect
+     style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.950257"
+     id="rect2"
+     width="65.368423"
+     height="69.932434"
+     x="54.684212"
+     y="607.0946"
+     inkscape:label="教育相談室" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.950257"
+     id="rect3"
+     width="65.368423"
+     height="69.932434"
+     x="120.05264"
+     y="607.0946"
+     inkscape:label="職員休憩室" />
+  <rect
+     style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.950257"
+     id="rect4"
+     width="261.47369"
+     height="93.24324"
+     x="185.42105"
+     y="583.78381"
+     inkscape:label="職員室" />
+  <rect
+     style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257"
+     id="rect1"
+     width="43.578949"
+     height="69.932434"
+     x="54.684212"
+     y="513.85138"
+     inkscape:label="ホール1" />
+  <rect
+     style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.950257"
+     id="rect5"
+     width="43.578949"
+     height="69.932434"
+     x="98.263161"
+     y="513.85138"
+     inkscape:label="階段室1" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.950257"
+     id="rect6"
+     width="43.578949"
+     height="69.932434"
+     x="141.8421"
+     y="513.85138"
+     inkscape:label="職員用便所" />
+  <path
+     id="rect7"
+     style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.950257"
+     inkscape:label="談話室"
+     d="m 403.31579,513.85135 v 69.93243 H 413 v -27.97297 h 33.89474 v -41.95946 z" />
+  <rect
+     style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.950257"
+     id="rect8"
+     width="43.578949"
+     height="69.932434"
+     x="359.73685"
+     y="513.85138"
+     inkscape:label="教材室" />
+  <rect
+     style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.950257"
+     id="rect9"
+     width="43.578949"
+     height="69.932434"
+     x="316.1579"
+     y="513.85138"
+     inkscape:label="印刷室" />
+  <rect
+     style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.950257"
+     id="rect10"
+     width="43.578949"
+     height="69.932434"
+     x="446.89474"
+     y="607.0946"
+     inkscape:label="放送室" />
+  <rect
+     style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.950257"
+     id="rect11"
+     width="53.263157"
+     height="69.932434"
+     x="490.47369"
+     y="607.0946"
+     inkscape:label="進路職員室" />
+  <rect
+     style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.950257"
+     id="rect12"
+     width="33.894737"
+     height="69.932434"
+     x="543.73682"
+     y="607.0946"
+     inkscape:label="進路応接室" />
+  <rect
+     style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.950257"
+     id="rect13"
+     width="43.578949"
+     height="69.932434"
+     x="446.89474"
+     y="513.85138"
+     inkscape:label="階段室2" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.950257"
+     id="rect14"
+     width="43.578949"
+     height="69.932434"
+     x="577.63159"
+     y="513.85138"
+     inkscape:label="3階東トイレ" />
+  <rect
+     style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.950257"
+     id="rect15"
+     width="87.157898"
+     height="69.932434"
+     x="577.63159"
+     y="607.0946"
+     inkscape:label="進路資料室" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257"
+     id="rect16"
+     width="87.157898"
+     height="69.932434"
+     x="664.78949"
+     y="607.0946"
+     inkscape:label="2年1組" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257"
+     id="rect17"
+     width="87.157898"
+     height="69.932434"
+     x="751.94739"
+     y="607.0946"
+     inkscape:label="2年2組" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257"
+     id="rect18"
+     width="87.157898"
+     height="69.932434"
+     x="839.10529"
+     y="607.0946"
+     inkscape:label="2年3組" />
+  <rect
+     style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257"
+     id="rect19"
+     width="871.57892"
+     height="16.783783"
+     x="54.684212"
+     y="677.02704"
+     inkscape:label="バルコニー" />
+  <rect
+     style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.950257"
+     id="rect20"
+     width="29.052631"
+     height="69.932434"
+     x="926.26318"
+     y="583.78381"
+     inkscape:label="3階屋外階段" />
+  <rect
+     style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.950257"
+     id="rect21"
+     width="33.894737"
+     height="27.972973"
+     x="413"
+     y="555.81079"
+     inkscape:label="EVシャフト" />
+  <rect
+     style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect22"
+     width="38.736843"
+     height="335.67569"
+     x="490.47369"
+     y="178.17567"
+     inkscape:label="3階東渡廊下" />
+  <rect
+     style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect23"
+     width="24.210526"
+     height="335.67569"
+     x="74.052635"
+     y="178.17567"
+     inkscape:label="3階西渡廊下" />
+  <path
+     style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     d="m 54.684211,583.78378 v 23.31081 H 185.42105 v -23.31081 z"
+     id="path23"
+     inkscape:label="西廊下" />
+  <path
+     style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     d="m 490.47368,513.85135 h 87.1579 v 69.93243 h 348.63158 v 23.31081 H 446.89474 v -23.31081 h 43.57894 z"
+     id="path24"
+     inkscape:label="東廊下" />
+  <rect
+     style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect24"
+     width="634.3158"
+     height="23.31081"
+     x="74.052635"
+     y="154.86487"
+     inkscape:label="3階北渡廊下" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect25"
+     width="87.157898"
+     height="71.797295"
+     x="621.21051"
+     y="83.067566"
+     inkscape:label="2年4組" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect26"
+     width="87.157898"
+     height="71.797295"
+     x="534.05261"
+     y="83.067566"
+     inkscape:label="2年5組" />
+  <path
+     id="path26"
+     style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     d="M 98.263158,61.621622 V 83.067568 H 490.47368 v 71.797292 h 43.57895 V 83.067568 H 708.36842 V 61.621622 Z"
+     inkscape:label="特別教室棟3階廊下" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect27"
+     width="87.157898"
+     height="71.797295"
+     x="98.263161"
+     y="83.067566"
+     inkscape:label="2年8組SS" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect28"
+     width="87.157898"
+     height="71.797295"
+     x="185.42105"
+     y="83.067566"
+     inkscape:label="2年8組MS" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect29"
+     width="87.157898"
+     height="71.797295"
+     x="272.57895"
+     y="83.067566"
+     inkscape:label="2年7組" />
+  <rect
+     style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect30"
+     width="87.157898"
+     height="71.797295"
+     x="359.73685"
+     y="83.067566"
+     inkscape:label="2年6組" />
+  <rect
+     style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect31"
+     width="43.578949"
+     height="71.797295"
+     x="446.89474"
+     y="83.067566"
+     inkscape:label="階段室" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect32"
+     width="87.157898"
+     height="37.297298"
+     x="490.47369"
+     y="24.324324"
+     inkscape:label="3階北トイレ" />
+  <rect
+     style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.950257;stroke-dasharray:none"
+     id="rect33"
+     width="24.210526"
+     height="39.162163"
+     x="74.052635"
+     y="115.70271"
+     inkscape:label="屋外階段" />
+</svg>

@@ -1,20 +1,50 @@
- body {
-    background-color: #08dc1678;
-    font-family: sans-serif;
-    text-align: center;
-  }
+body{
+  background-color:#08dc1678;
+  font-family:sans-serif;
+  text-align:center;
+}
+.screen{
+  display:none;
+  padding:10px 40px;
+}
+.active{
+  display:block;
+}
+object{
+  background-color: white;
+  width:50%;
+  margin-top: 70px;
+}
+button{
+  border:2px solid #000000;
+  border-radius:10px;
+  cursor:pointer;
+  transition:border-color 0.2s ease;
+  margin:10px;
+  padding:10px 40px;
+  font-size:20px;
+}
+button:hover{
+  border-color:#ff0000;
+  transform:scale(1.10);
+}
+button:active{
+  transform:scale(1.00);
+}
+.current-info{
+  margin-top:0;
+  font-size:24px;
+  font-weight:bold;
+}
 
-  .screen {
-    display: none;
-    padding: 40px;
-  }
-
-  .active {
-    display: block;
-  }
-
-  button {
-    margin: 10px;
-    padding: 10px 40px;
-    font-size: 20px;
-  }
+.title_floor{
+  position: absolute;
+  top:150px;
+  left:200px;
+  pointer-events: none;
+}
+#room_now_1f{
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
