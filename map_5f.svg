@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20000"
+   height="20000"
+   viewBox="0 0 20000 20000"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="map_5f.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.16"
+     inkscape:cx="4850"
+     inkscape:cy="18696.875"
+     inkscape:window-width="2240"
+     inkscape:window-height="1294"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect1"
+       width="9000"
+       height="180"
+       x="650"
+       y="18900"
+       inkscape:label="バルコニー" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect2"
+       width="450"
+       height="750"
+       x="650"
+       y="18150"
+       inkscape:label="美術準備室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect3"
+       width="1350"
+       height="750"
+       x="1100"
+       y="18150"
+       inkscape:label="美術教室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect4"
+       width="450"
+       height="750"
+       x="2450"
+       y="18150"
+       inkscape:label="地歴公民準備室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect5"
+       width="900"
+       height="750"
+       x="2900"
+       y="18150"
+       inkscape:label="地歴公民教室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect6"
+       width="450"
+       height="750"
+       x="3800"
+       y="18150"
+       inkscape:label="501教室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect7"
+       width="900"
+       height="750"
+       x="4250"
+       y="18150"
+       ry="0"
+       inkscape:label="502教室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect8"
+       width="450"
+       height="750"
+       x="5150"
+       y="18150"
+       inkscape:label="新聞部部室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect9"
+       width="450"
+       height="750"
+       x="5600"
+       y="18150"
+       inkscape:label="数学準備室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect10"
+       width="900"
+       height="750"
+       x="6050"
+       y="18150"
+       inkscape:label="数学教室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect11"
+       width="450"
+       height="750"
+       x="6950"
+       y="18150"
+       inkscape:label="503教室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect12"
+       width="450"
+       height="750"
+       x="7400"
+       y="18150"
+       inkscape:label="504教室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect13"
+       width="450"
+       height="750"
+       x="7850"
+       y="18150"
+       inkscape:label="映写・録音室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect14"
+       width="1350"
+       height="1000"
+       x="8300"
+       y="17900"
+       inkscape:label="視聴覚室" />
+    <path
+       id="rect15"
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       d="M 650 17150 L 650 17900 L 650 18150 L 8300 18150 L 8300 17900 L 1100 17900 L 1100 17150 L 650 17150 z "
+       inkscape:label="5階南廊下" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect17"
+       width="450"
+       height="750"
+       x="1100"
+       y="17150"
+       inkscape:label="階段室1" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect18"
+       width="450"
+       height="750"
+       x="1550"
+       y="17150"
+       inkscape:label="5階南トイレ" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect22"
+       width="300"
+       height="300"
+       x="4400"
+       y="17600"
+       inkscape:label="EVシャフト" />
+    <path
+       id="rect23"
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       d="m 4250,17150 v 450 300 h 150 v -300 h 300 v -450 z"
+       inkscape:label="倉庫" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect25"
+       width="450"
+       height="750"
+       x="4700"
+       y="17150"
+       inkscape:label="階段室2" />
+  </g>
+</svg>

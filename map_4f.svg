@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20000"
+   height="20000"
+   viewBox="0 0 20000 20000"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="map_4f.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="5656.8545"
+     inkscape:cy="16643.527"
+     inkscape:window-width="2240"
+     inkscape:window-height="1294"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect2"
+       width="9000"
+       height="180"
+       x="1050"
+       y="18250"
+       inkscape:label="バルコニー" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect3"
+       width="900"
+       height="750"
+       x="1050"
+       y="17500"
+       inkscape:label="3年1組" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect4"
+       width="900"
+       height="750"
+       x="1950"
+       y="17500"
+       inkscape:label="3年2組" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect5"
+       width="900"
+       height="750"
+       x="2850"
+       y="17500"
+       inkscape:label="3年3組" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect6"
+       width="900"
+       height="750"
+       x="3750"
+       y="17500"
+       inkscape:label="3年4組" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect7"
+       width="900"
+       height="750"
+       x="4650"
+       y="17500"
+       inkscape:label="401教室" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect8"
+       width="900"
+       height="750"
+       x="5550"
+       y="17500"
+       inkscape:label="3年5組" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect9"
+       width="900"
+       height="750"
+       x="6450"
+       y="17500"
+       inkscape:label="3年6組" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect10"
+       width="900"
+       height="750"
+       x="7350"
+       y="17500"
+       inkscape:label="3年7組" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect11"
+       width="900"
+       height="750"
+       x="8250"
+       y="17500"
+       inkscape:label="3年8組MS" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect12"
+       width="900"
+       height="750"
+       x="9150"
+       y="17500"
+       inkscape:label="3年8組SS" />
+    <path
+       id="rect13"
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       inkscape:label="4階廊下"
+       d="M 1050 16500 L 1050 17250 L 1050 17500 L 10050 17500 L 10050 17250 L 6450 17250 L 6450 16500 L 5550 16500 L 5550 17250 L 1500 17250 L 1500 16500 L 1050 16500 z " />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect15"
+       width="450"
+       height="750"
+       x="1500"
+       y="16500"
+       inkscape:label="階段室1" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect16"
+       width="450"
+       height="750"
+       x="1950"
+       y="16500"
+       inkscape:label="4階東トイレ" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect17"
+       width="900"
+       height="750"
+       x="3750"
+       y="16500" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect19"
+       width="450"
+       height="300"
+       x="4650"
+       y="16950"
+       inkscape:label="4階EVシャフト" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect21"
+       width="450"
+       height="750"
+       x="5100"
+       y="16500"
+       inkscape:label="階段室2" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect23"
+       width="450"
+       height="750"
+       x="6450"
+       y="16500"
+       inkscape:label="4階西トイレ" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect24"
+       width="450"
+       height="450"
+       x="4650"
+       y="16500"
+       inkscape:label="4階倉庫" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect1"
+       width="450"
+       height="3600"
+       x="5575"
+       y="12900"
+       inkscape:label="4階東渡廊下" />
+    <rect
+       style="opacity:0.5;fill:#ff00ff;stroke:#000000;stroke-width:10"
+       id="rect14"
+       width="250"
+       height="750"
+       x="10050"
+       y="17250"
+       inkscape:label="4階屋外階段" />
+  </g>
+</svg>
