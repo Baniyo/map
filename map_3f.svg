@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.64"
-     inkscape:cx="487.5"
-     inkscape:cy="755.46875"
+     inkscape:zoom="0.32"
+     inkscape:cx="278.125"
+     inkscape:cy="789.0625"
      inkscape:window-width="1356"
-     inkscape:window-height="992"
-     inkscape:window-x="14"
-     inkscape:window-y="161"
+     inkscape:window-height="1000"
+     inkscape:window-x="96"
+     inkscape:window-y="86"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1">
     <inkscape:grid
@@ -53,7 +53,8 @@
   <path
      id="path34"
      style="opacity:1;fill:#19eaff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-     d="M 480.78947,15 V 52.297297 H 88.578947 V 108.24324 H 64.368421 V 504.52703 H 45 V 705 h 881.26316 9.68421 V 663.04054 H 965 V 574.45946 H 630.89474 v -69.93243 h -92 V 404.28056 187.5 H 718.05263 V 52.297297 H 587.31579 V 15 Z m -372.8421,172.5 h 372.8421 V 504.52703 H 306.47368 v 69.93243 H 195.10526 v -69.93243 h -87.15789 z m 53.26316,293.71622 z" />
+     d="M 480.78947,15 V 52.297297 H 88.578947 V 108.24324 H 64.368421 V 504.52703 H 45 V 705 h 881.26316 9.68421 V 663.04054 H 965 V 574.45946 H 630.89474 v -69.93243 h -92 V 404.28056 187.5 H 718.05263 V 52.297297 H 587.31579 V 15 Z m -372.8421,172.5 h 372.8421 V 504.52703 H 306.47368 v 69.93243 H 195.10526 v -69.93243 h -87.15789 z m 53.26316,293.71622 z"
+     inkscape:label="背景" />
   <rect
      style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.950257"
      id="rect2"
@@ -198,7 +199,7 @@
   <rect
      style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.950257"
      id="rect19"
-     width="871.57892"
+     width="871.57898"
      height="16.783783"
      x="54.684212"
      y="677.02704"
@@ -212,7 +213,7 @@
      y="583.78381"
      inkscape:label="3階屋外階段" />
   <rect
-     style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.950257"
+     style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.950257"
      id="rect21"
      width="33.894737"
      height="27.972973"

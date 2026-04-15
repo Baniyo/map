@@ -52,3 +52,35 @@ obj3.addEventListener("load",function(){
     });
   });
 });
+const obj4=document.getElementById("map_4f");
+obj4.addEventListener("load",function(){
+  const svgDoc=obj4.contentDocument;
+  const rooms=svgDoc.querySelectorAll("rect,path");
+
+  rooms.forEach(room=>{
+    room.dataset.originalFill=room.style.fill;
+    room.addEventListener("click",function(){
+      if(room.style.fill==="red"){
+        room.style.fill=room.dataset.originalFill;
+      }else{
+        room.style.fill="red";
+      }
+    });
+  });
+});
+const obj5=document.getElementById("map_5f");
+obj5.addEventListener("load",function(){
+  const svgDoc=obj5.contentDocument;
+  const rooms=svgDoc.querySelectorAll("rect,path");
+
+  rooms.forEach(room=>{
+    room.dataset.originalFill=room.style.fill;
+    room.addEventListener("click",function(){
+      if(room.style.fill==="red"){
+        room.style.fill=room.dataset.originalFill;
+      }else{
+        room.style.fill="red";
+      }
+    });
+  });
+});
