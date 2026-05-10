@@ -25,12 +25,12 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.5"
-     inkscape:cx="542"
-     inkscape:cy="879"
-     inkscape:window-width="1050"
-     inkscape:window-height="1022"
-     inkscape:window-x="843"
-     inkscape:window-y="91"
+     inkscape:cx="543"
+     inkscape:cy="878"
+     inkscape:window-width="958"
+     inkscape:window-height="1000"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -62,201 +62,201 @@
     <rect
        style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
        id="rect2"
-       width="885.56152"
+       width="885.56201"
        height="17.013699"
        x="49.9198"
        y="681.37012"
        inkscape:label="バルコニー" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect3"
-       width="88.556152"
+       id="grade-3-class-1"
+       width="88.556"
        height="70.890411"
        x="49.9198"
        y="610.47852"
        inkscape:label="3年1組" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect4"
-       width="88.556152"
+       id="grade-3-class-2"
+       width="88.556"
        height="70.890411"
        x="138.47595"
        y="610.47852"
        inkscape:label="3年2組" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect5"
-       width="88.556152"
+       id="grade-3-class-3"
+       width="88.556"
        height="70.890411"
        x="227.0321"
        y="610.47852"
        inkscape:label="3年3組" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect6"
-       width="88.556152"
+       id="grade-3-class-4"
+       width="88.556"
        height="70.890411"
        x="315.58826"
        y="610.47852"
        inkscape:label="3年4組" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect7"
-       width="88.556152"
+       id="classroom-401"
+       width="88.556"
        height="70.890411"
        x="404.14441"
        y="610.47852"
        inkscape:label="401教室" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect8"
-       width="88.556152"
+       id="grade-3-class-5"
+       width="88.556"
        height="70.890411"
        x="492.70056"
        y="610.47852"
        inkscape:label="3年5組" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect9"
-       width="88.556152"
+       id="grade-3-class-6"
+       width="88.556"
        height="70.890411"
        x="581.25671"
        y="610.47852"
        inkscape:label="3年6組" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect10"
-       width="88.556152"
+       id="grade-3-class-7"
+       width="88.556"
        height="70.890411"
        x="669.81287"
        y="610.47852"
        inkscape:label="3年7組" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect11"
-       width="88.556152"
+       id="grade-3-class-8-ms"
+       width="88.556"
        height="70.890411"
        x="758.36902"
        y="610.47852"
        inkscape:label="3年8組MS" />
     <rect
        style="opacity:1;fill:#2aff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect12"
-       width="88.556152"
+       id="grade-3-class-8-ss"
+       width="88.556"
        height="70.890411"
        x="846.92517"
        y="610.47852"
        inkscape:label="3年8組SS" />
     <path
-       id="rect13"
+       id="4f-hallway"
        style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
        inkscape:label="4階廊下"
        d="m 49.9198,515.959 v 70.89 23.63 h 885.5615 v -23.63 H 581.2567 v -70.89 h -88.5562 v 70.89 H 94.1979 v -70.89 z" />
     <rect
        style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect15"
-       width="44.278076"
+       id="stairwell-1"
+       width="44.278"
        height="70.890411"
        x="94.197876"
        y="515.95898"
        inkscape:label="階段室1" />
     <rect
        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect16"
-       width="44.278076"
+       id="4f-east-restroom"
+       width="44.278"
        height="70.890411"
        x="138.47595"
        y="515.95898"
        inkscape:label="4階東トイレ" />
     <rect
        style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect19"
-       width="44.278076"
+       id="4f-elevator-shaft"
+       width="44.278"
        height="28.356165"
        x="404.14441"
        y="558.49316"
        inkscape:label="4階EVシャフト" />
     <rect
        style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect21"
-       width="44.278076"
+       id="stairwell-2"
+       width="44.278"
        height="70.890411"
        x="448.42249"
        y="515.95898"
        inkscape:label="階段室2" />
     <rect
        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect23"
-       width="44.278076"
+       id="4f-west-restroom"
+       width="44.278"
        height="70.890411"
        x="581.25671"
        y="515.95898"
        inkscape:label="4階西トイレ" />
     <rect
        style="opacity:1;fill:#cd87de;stroke:#000000;stroke-width:0.964387;stroke-dasharray:none"
-       id="rect24"
-       width="44.278076"
+       id="4f-storage-room"
+       width="44.278"
        height="42.534248"
        x="404.14441"
        y="515.95898"
        inkscape:label="4階倉庫" />
     <rect
        style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.964387"
-       id="rect1"
-       width="44.278076"
+       id="4f-east-connecting-corridor"
+       width="44.278"
        height="340.27399"
        x="495.1604"
        y="175.68457"
        inkscape:label="4階東渡廊下" />
     <rect
        style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.964387"
-       id="rect14"
-       width="24.59893"
+       id="4f-outdoor-stairs"
+       width="24.599001"
        height="70.890411"
        x="935.48132"
        y="586.84961"
        inkscape:label="4階屋外階段" />
     <rect
        style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.964387"
-       id="rect18"
-       width="619.89307"
+       id="4f-north-connecting-corridor"
+       width="619.89301"
        height="23.630136"
        x="96.657715"
        y="152.05469"
        inkscape:label="4階北渡廊下" />
     <rect
        style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.964387"
-       id="rect20"
-       width="132.83423"
+       id="sewing-room"
+       width="132.834"
        height="94.520546"
        x="583.71655"
        y="57.53418"
        inkscape:label="被服室" />
     <rect
        style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.964387"
-       id="rect22"
-       width="44.278076"
+       id="sewing-prep-room"
+       width="44.278"
        height="72.780823"
        x="539.43848"
        y="79.274414"
        inkscape:label="被服準備室" />
     <path
-       id="rect25"
+       id="4f-north-hallway"
        style="opacity:1;fill:#e5ff80;stroke:#000000;stroke-width:0.964387"
        d="m 450.8824,57.534 v 21.74 h 44.278 v 72.781 h 44.2781 V 79.274 h 44.2781 v -21.74 h -44.2781 -44.2781 z"
        inkscape:label="4階北廊下" />
     <rect
        style="opacity:1;fill:#5599ff;stroke:#000000;stroke-width:0.964387"
-       id="rect28"
-       width="44.278076"
+       id="4f-north-stairwell"
+       width="44.278"
        height="72.780823"
        x="450.88232"
        y="79.274414"
        inkscape:label="4階北階段室" />
     <rect
        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.964387"
-       id="rect30"
-       width="88.556152"
+       id="4f-north-restroom"
+       width="88.556"
        height="37.80822"
        x="495.1604"
        y="19.725586"
@@ -264,24 +264,24 @@
        ry="0" />
     <rect
        style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.964387"
-       id="rect31"
-       width="110.69519"
+       id="physics-classroom-1"
+       width="110.695"
        height="94.520546"
        x="340.18713"
        y="57.53418"
        inkscape:label="物理教室1" />
     <rect
        style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.964387"
-       id="rect32"
-       width="132.83423"
+       id="physics-prep-room"
+       width="132.834"
        height="94.520546"
        x="207.35291"
        y="57.53418"
        inkscape:label="物理準備室" />
     <rect
        style="opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0.964387"
-       id="rect33"
-       width="110.69519"
+       id="physics-classroom-2"
+       width="110.695"
        height="94.520546"
        x="96.657715"
        y="57.53418"
