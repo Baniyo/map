@@ -1,44 +1,60 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script src="script.js" defer></script>
-<link rel="stylesheet" href="style.css">
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>現在地マップ</title>
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
 </head>
 <body>
-<h1>現在地マップ</h1>
 
-<button onclick="showScreen('1F')">1階</button>
-<button onclick="showScreen('2F')">2階</button>
-<button onclick="showScreen('3F')">3階</button>
-<button onclick="showScreen('4F')">4階</button>
-<button onclick="showScreen('5F')">5階</button>
+<h1 class="page-title">現在地マップ</h1>
 
-<div id="1F" class="screen active">
-  <h1 class="title_floor">1階　　　<span id="room_now_1f"></span></h1>
-  <object id="map_1f" data="map_1f.svg" type="image/svg+xml"></object>
+<div class="floor-buttons">
+  <button onclick="showScreen('1F')">1階</button>
+  <button onclick="showScreen('2F')">2階</button>
+  <button onclick="showScreen('3F')">3階</button>
+  <button onclick="showScreen('4F')">4階</button>
+  <button onclick="showScreen('5F')">5階</button>
 </div>
 
-<div id="2F" class="screen">
-  <h1 class="title_floor">2階　　　</h1>
-  <object id="map_2f" data="map_2f.svg" type="image/svg+xml"></object>
-</div>
+<div class="main-layout">
 
-<div id="3F" class="screen">
-  <h1 class="title_floor">3階　　　</h1>
-  <object id="map_3f" data="map_3f.svg" type="image/svg+xml"></object>
-</div>
+  <!-- 検索バー -->
+  <div class="side-panel">
+    <div id="search-result-msg" class="search-result-msg"></div>
+    <input type="text" id="search_input" placeholder="名前で検索（例：田中）" onkeydown="if(event.key==='Enter') doSearch()">
+    <div class="search-buttons">
+      <button onclick="doSearch()">検索</button>
+      <button onclick="clearSearch()">クリア</button>
+    </div>
+    <div id="floor-label" class="floor-label">1階</div>
+    <div id="room_panel" style="display:none; margin-top:10px;">
+      <div id="room_panel_title" style="font-weight:bold; font-size:18px; margin-bottom:6px;"></div>
+      <ul id="room_panel_list" style="list-style:none; margin:0; padding:0; font-size:15px;"></ul>
+    </div>
+  </div>
 
-<div id="4F" class="screen">
-  <h1 class="title_floor">4階　　　</h1>
-  <object id="map_4f" data="map_4f.svg" type="image/svg+xml"></object>
-</div>
+  <!--　SVGマップ　-->
+  <div class="map-area">
+    <div id="1F" class="screen active">
+      <object id="map_1f" data="map_1f.svg" type="image/svg+xml"></object>
+    </div>
+    <div id="2F" class="screen">
+      <object id="map_2f" data="map_2f.svg" type="image/svg+xml"></object>
+    </div>
+    <div id="3F" class="screen">
+      <object id="map_3f" data="map_3f.svg" type="image/svg+xml"></object>
+    </div>
+    <div id="4F" class="screen">
+      <object id="map_4f" data="map_4f.svg" type="image/svg+xml"></object>
+    </div>
+    <div id="5F" class="screen">
+      <object id="map_5f" data="map_5f.svg" type="image/svg+xml"></object>
+    </div>
+  </div>
 
-<div id="5F" class="screen">
-  <h1 class="title_floor">5階　　　</h1>
-  <object id="map_5f" data="map_5f.svg" type="image/svg+xml"></object>
 </div>
 
 </body>
